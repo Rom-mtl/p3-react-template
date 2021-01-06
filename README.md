@@ -16,6 +16,8 @@ And adjust variables in the `.env` file to match your own environment if needed.
 npm i
 ```
 
+edsd
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
